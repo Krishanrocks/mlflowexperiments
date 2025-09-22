@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python cache and logs
+*.log
+
+# MLflow artifacts and runs
+mlruns/
+
+# Environment files
+*.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Data files that are large or generated
+
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+
+# System files
+.DS_Store
+Thumbs.db
